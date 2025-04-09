@@ -50,7 +50,7 @@ LCD I2C → SDA (20), SCL (21)
 ```bash
 # Clone o repositório
 git clone https://github.com/ibiapleo/SpeedReflex.git
-# Abra jogo_reacao_mega.ino na IDE Arduino
+# Abra main.ino na IDE Arduino
 ```
 
 ## 🎮 Modos de Operação
@@ -66,11 +66,11 @@ git clone https://github.com/ibiapleo/SpeedReflex.git
 
 ### 3. Desafio
 - Níveis:
-  1. Fácil (1.5s)
-  2. Intermediário (1s)
-  3. Difícil (0.6s) 
-  4. Expert (0.3s)
-  5. Extremo (0.2s)
+  1. Simples (1s)
+  2. Fácil (0.5s)
+  3. Médio (0.3s) 
+  4. Difícil (0.21s)
+  5. Extremo (0.1s)
 
 ## 📊 Especificações Técnicas
 - Tensão de operação: 5V DC
