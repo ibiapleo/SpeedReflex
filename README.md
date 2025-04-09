@@ -1,6 +1,6 @@
 # 🎮 SpeedReflex
 
-![Foto do Projeto Montado](imgs/Prototipo.jpg)
+![Foto do Projeto Montado](imgs/prototipo.jpg)
 
 Um sistema interativo com três modos de jogo para testar reflexos, desenvolvido para Arduino Mega com display LCD 20x4.
 
